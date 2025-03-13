@@ -27,4 +27,6 @@ Clone or download the project.
 Open index.html in any modern browser.
 
 Enjoy rolling the dice!
+![Screenshot 2025-03-13 223031](https://github.com/user-attachments/assets/398ee36a-6a59-4d86-b8fd-b922ea0e3501)
+
 
